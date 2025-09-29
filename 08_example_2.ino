@@ -8,7 +8,6 @@
 #define INTERVAL 25       // sampling interval (unit: msec)
 #define PULSE_DURATION 10 // ultra-sound Pulse Duration (unit: usec)
 
-// @ 네이밍 변경
 #define MIN_DISTANCE 100.0   // minimum distance to be measured (unit: mm)
 #define MAX_DISTANCE 300.0   // maximum distance to be measured (unit: mm)
 
